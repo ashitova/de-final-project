@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<clickhouse>
+    <!-- Example: Allow connections from any IP -->
+    <tcp_port>9500</tcp_port>
+</clickhouse>
